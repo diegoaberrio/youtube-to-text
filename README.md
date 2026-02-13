@@ -1,5 +1,14 @@
 ### 📌 **README.md** para tu proyecto **YouTube-to-Text**  
 
+## 📌 **Capturas de Pantalla**  
+
+🔹 **Interfaz Gráfica con CustomTkinter**  
+<img src="screenshots/ui.png" width="600">  
+
+🔹 **Ejemplo de Transcripción**  
+<img src="screenshots/transcription.png" width="600">  
+
+
 # 🎬 YouTube-to-Text 🎤📜  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/diegoaberrio/youtube-to-text)
@@ -20,13 +29,6 @@ Además, ofrece opciones avanzadas como:
 
 ---
 
-## 📌 **Capturas de Pantalla**  
-
-🔹 **Interfaz Gráfica con CustomTkinter**  
-<img src="screenshots/ui.png" width="600">  
-
-🔹 **Ejemplo de Transcripción**  
-<img src="screenshots/transcription.png" width="600">  
 
 ---
 
